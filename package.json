@@ -1,0 +1,19 @@
+{
+  "name": "reactexpress",
+  "version": "1.0.0",
+  "description": "Starter kit for creating React and Express apps",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "author": "Udjin",
+  "license": "sinedd",
+  "devDependencies": {
+    "nodemon": "^1.14.6"
+  },
+  "dependencies": {
+    "cors": "^2.4.1",
+    "express": "^4.16.2",
+    "http-status": "^1.2.0"
+  }
+}
